@@ -102,7 +102,7 @@ This project was developed as part of a course assignment, combining software de
 - Linux Crontab for auto-start
 
 ## Team
-This project was developed in collaboration with [Partner's name if they want to be credited].
+This project was developed in collaboration with Katelyn Nguyen.
 
 ## Project Status
 This project was completed as an academic assignment and successfully demonstrated the integration of software and hardware components in an interactive gaming application. 
