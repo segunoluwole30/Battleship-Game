@@ -49,8 +49,9 @@ The project is structured into several key components:
 
 ## Demonstration
 Watch our project demonstration:
++ [View Project Demo Video](https://drive.google.com/file/d/1-co0soc9OvND7N32Br5NL9oIyR7P5KUJ/view?usp=sharing)
 
-https://github.com/YOUR_USERNAME/Battleship-Game/assets/YOUR_ASSET_ID/video.mp4
+
 
 The video demonstrates:
 - Hardware setup and connections
