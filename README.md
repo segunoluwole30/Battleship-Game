@@ -2,7 +2,7 @@
 
 A modern take on the classic Battleship game, implemented as a standalone system using Raspberry Pi. This project transforms traditional Battleship into a plug-and-play gaming experience with physical controls and feedback.
 
-![Game Setup Image Placeholder]
+![Game Setup Image Placeholder](images/battleship_game.png)
 
 ## Project Overview
 This Battleship implementation is a standalone single-player game system. Once plugged in, the game automatically starts, allowing players to immediately challenge the AI opponent using physical buttons. The game provides feedback through LED indicators and a buzzer system, creating an engaging arcade-like experience.
@@ -77,7 +77,7 @@ Here are demonstrations of each game stage:
    [Human Loss](https://drive.google.com/file/d/1XitjqltrKR5nu6IqRnZYI8miYwTDal1i/view?usp=drive_link)
 
 ## Circuit Design
-[Add image of your circuit diagram or actual hardware setup]
+![Circuit Diagram](images/circuit_schematic.png)
 
 ## Development Process
 This project was developed as part of a course assignment, combining software development with physical computing concepts. The implementation required careful consideration of:
