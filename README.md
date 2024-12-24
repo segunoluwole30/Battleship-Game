@@ -2,7 +2,6 @@
 
 A modern take on the classic Battleship game, implemented as a standalone system using Raspberry Pi. This project transforms traditional Battleship into a plug-and-play gaming experience with physical controls and feedback.
 
-![Game Setup Image Placeholder](images/battleship_game.png)
 <img src="images/battleship_game.png" width="500" alt="Game Setup">
 
 ## Project Overview
