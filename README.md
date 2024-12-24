@@ -61,11 +61,16 @@ The video demonstrates:
 - LED and buzzer feedback
 
 ### Gameplay Preview
-[Add screenshots or GIFs of different game stages]
-1. Game Setup
-2. Ship Placement
-3. Battle Phase
-4. Victory Sequence
+Here are demonstrations of each game stage:
+
+1. **Game Setup & Ship Placement**
+   [View Setup & Placement Video](https://drive.google.com/file/d/YOUR_SETUP_VIDEO_ID/view?usp=sharing)
+
+2. **Battle Phase**
+   [View Battle Phase Video](https://drive.google.com/file/d/YOUR_BATTLE_VIDEO_ID/view?usp=sharing)
+
+3. **Victory Sequence**
+   [View Victory Video](https://drive.google.com/file/d/YOUR_VICTORY_VIDEO_ID/view?usp=sharing)
 
 ## Circuit Design
 [Add image of your circuit diagram or actual hardware setup]
