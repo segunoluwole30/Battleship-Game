@@ -64,13 +64,17 @@ The video demonstrates:
 Here are demonstrations of each game stage:
 
 1. **Game Setup & Ship Placement**
-   [View Setup & Placement Video](https://drive.google.com/file/d/YOUR_SETUP_VIDEO_ID/view?usp=sharing)
+   [View Setup & Placement Video](https://drive.google.com/file/d/1TjxsinkgjliyGsgxd1W3BIkSpbh16Aq1/view?usp=drive_link)
 
 2. **Battle Phase**
-   [View Battle Phase Video](https://drive.google.com/file/d/YOUR_BATTLE_VIDEO_ID/view?usp=sharing)
+   [Player and Bot Turns](https://drive.google.com/file/d/1fAdCpifUHHTuGwrnZZctQl-5V5AIBvoV/view?usp=drive_link)
+   [Human Sinks Bot Ship](https://drive.google.com/file/d/1LayeKJ-q8lvYjMCMzwxlH0546B0FA2uk/view?usp=drive_link)
+   [Bot Sinks Human Ship](https://drive.google.com/file/d/1GKTbnw3NR8TWpZJM7S87t6M9nBny3kOr/view?usp=drive_link)
+  
 
-3. **Victory Sequence**
-   [View Victory Video](https://drive.google.com/file/d/YOUR_VICTORY_VIDEO_ID/view?usp=sharing)
+4. **Victory Sequence**
+   [Human Victory](https://drive.google.com/file/d/1V6h9-iemIWQ6wpYh_XopoVqEt1QE1Srv/view?usp=drive_link)
+   [Human Loss](https://drive.google.com/file/d/1XitjqltrKR5nu6IqRnZYI8miYwTDal1i/view?usp=drive_link)
 
 ## Circuit Design
 [Add image of your circuit diagram or actual hardware setup]
