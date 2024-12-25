@@ -97,7 +97,7 @@ This project was developed as part of a course assignment, combining software de
 ## Technologies Used
 - Python
 - Raspberry Pi GPIO
-- Electronic Components (LEDs, Buttons, Buzzer)
+- Electronic Components (LED Grid, Button Board Grid, Buzzer, Rotary Switches, Push Button)
 - Circuit Design
 - Linux Crontab for auto-start
 
